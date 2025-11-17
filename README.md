@@ -241,7 +241,7 @@ This will ensure you are spending your time on the most impactful things first!
 **List of books**
 
 - The Pragmatic Programmer by Andy Hunt and Dave Thomas
-- Refactoring by Martin Fowler and Kent Beck
+- Refactoring by Martin Fowler and Kent Beck 
 - Why Programs Fail by Andreas Zeller
 - Clean Code by Robert Cecil Martin
 - Grokking Algorithms by Aditya Y. Bhargava
@@ -253,15 +253,26 @@ This will ensure you are spending your time on the most impactful things first!
 - Code Complete by Steve McConnell
 - The Staff Engineer's Path by Tanya Reilly
 - Cracking the Coding Interview by Gayle Laakmann McDowell
+- Software Engineering Guidebook by Gergely Orosz
+- The Staff Engineer’s Path by Tanya Reilly
+- The Product-Minded Engineer by Drew Hoskins
+- Cracking the Coding Interview by Gayle Laakmann McDowell
 - Clean Code Cookbook: Recipes to Improve the Design and Quality of your Code by Maximiliano Contieri
 
 **List of newsletters**
 
+- [Engineering Leadership](https://newsletter.eng-leadership.com/) by Gregor Ojstersek
 - [Coding Challenges](https://codingchallenges.substack.com/) by John Crickett
 - [Developing Skills](https://developingskills.substack.com/) by John Crickett
 - [High Growth Engineer](https://careercutler.substack.com/) by Jordan Cutler
 - [The Developing Dev](https://www.developing.dev/) by Ryan Peterman
+- [The T-Shaped Dev](https://thetshaped.dev/) by Petar Ivanov
+- [Hungry Minds 🍔🧠](https://hungryminds.dev) by Alexandre Zajac
+- [The Hustling Engineer](https://thehustlingengineer.substack.com/) by Hemant Pandey
+- [A Life Engineered](https://alifeengineered.substack.com/) by Steve Huynh
+- [The Software Engineer Weekly] by Kevin Naughton Jr.
 - [Level up software engineering](https://levelupsoftwareengineering.substack.com/) by Caleb Mellas
+- [Optivem Journal](https://journal.optivem.com/) by Valentina Jemuović
 - [Engineer’s Codex](https://read.engineerscodex.com/) by Leonardo Creed
 - [The Modern Software Developer](https://tmsd.substack.com/) by Richard Donovan
 - [Strategize Your Career](https://strategizeyourcareer.substack.com/) by Fran Soto
@@ -271,16 +282,15 @@ This will ensure you are spending your time on the most impactful things first!
 - [Front-End Focus](https://frontendfocus.substack.com/) by Mads Brodt
 - [Craft Better Software](https://craftbettersoftware.com/) by Daniel Moka
 - [Saiyan Growth Letter](https://www.saiyangrowthletter.com/) by Tiger Abrodi
-- [The T-Shaped Dev](https://thetshaped.dev/) by Petar Ivanov
 - [The Polymathic Engineer](https://newsletter.francofernando.com/) by Franco Fernando
 - [ByteSizedBets](https://bytesizedbets.com/) by Ankur Tyagi
-- [Hungry Minds 🍔🧠](https://hungryminds.dev) by Alexandre Zajac
 - [Maximiliano Contieri - Software Design](https://maximilianocontieri.com/newsletter) by Maximiliano Contieri
 - [Path to Staff](https://pathtostaff.substack.com/) by Sidwyn Koh
 - [Marko Denic Tech](https://markodenic.tech) by Marko Denic
 
 **People to follow on LinkedIn**
 
+- [Gregor Ojstersek](https://www.linkedin.com/in/gregorojstersek/)
 - [John Crickett](https://www.linkedin.com/in/johncrickett/)
 - [Jordan Cutler](https://www.linkedin.com/in/jordancutler1/)
 - [Ryan Peterman](https://www.linkedin.com/in/ryanlpeterman/)
@@ -288,25 +298,76 @@ This will ensure you are spending your time on the most impactful things first!
 - [Richard Donovan](https://www.linkedin.com/in/rich-donovan/)
 - [Daniel Moka](https://www.linkedin.com/in/danielmoka/)
 - [Tiger Abrodi](https://www.linkedin.com/in/tiger-abrodi/)
+- [Hemant Pandey](https://www.linkedin.com/in/hemant-pandey/
+- [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
+- [Brian Jenney](https://www.linkedin.com/in/brianjenney/)
 - [Francisco Manuel (Fran) Soto Ramírez](https://www.linkedin.com/in/fransotodev/)
 - [Guille Ojeda](https://www.linkedin.com/in/guilleojeda/)
 - [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz/)
 - [Kent Beck](https://www.linkedin.com/in/kentbeck/)
+- [Steve Huynh](https://www.linkedin.com/in/a-life-engineered/)
+- [Kevin Naughton](https://www.linkedin.com/in/kevindnaughtonjr/)
+- [Daniel Glejzner](https://www.linkedin.com/in/daniel-glejzner-271281159/)
+- [Valentina (Cupać) Jemuović](https://www.linkedin.com/in/valentinajemuovic/)
+- [Rahul Pandey](https://www.linkedin.com/in/rpandey1234/)
+- [Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
 - [Mike Thornton](https://www.linkedin.com/in/devdetails/)
+- [Marko Denic](https://www.linkedin.com/in/denicmarko/)
 - [Mads Brodt](https://www.linkedin.com/in/madsbrodt/)
-- [Roman Frolov](https://www.linkedin.com/in/romfrolov/)
 - [Petar Ivanov](https://www.linkedin.com/in/petarivanovv9/)
 - [Fernando Franco](https://www.linkedin.com/in/fernando-franco-4696708/)
 - [Ankur Tyagi](https://www.linkedin.com/in/theankurtyagi/overlay/about-this-profile/)
+- [Harley Ferguson](https://www.linkedin.com/in/askharley/)
 - [James Willett](http://overlay/about-this-profile/)
 - [Milan Jovanović](https://www.linkedin.com/in/milan-jovanovic/)
 - [Eric Roby](https://www.linkedin.com/in/codingwithroby/)
-- [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
 - [Zubin Pratap](https://www.linkedin.com/in/zubinpratap/)
 - [Sam Williams](https://www.linkedin.com/in/sam-complete-coding/)
 - [Maximiliano Contieri](https://www.linkedin.com/in/mcsee/)
 - [Sidwyn Koh](https://www.linkedin.com/in/sidwyn/)
-- [Marko Denic](https://www.linkedin.com/in/denicmarko/)
+
+**Articles**
+
+- [How to grow from mid-level to senior Software Engineer](https://newsletter.eng-leadership.com/p/how-to-grow-from-mid-level-to-senior)
+- [Future Proof Your Career as an Engineer in Gen AI World](https://newsletter.eng-leadership.com/p/future-proof-your-career-as-an-engineer)
+- [Tech Lead is Becoming One of the Most Important Roles in Tech Due to GenAI](https://newsletter.eng-leadership.com/p/tech-lead-is-becoming-one-of-the)
+- [Saying “I don’t know” Is a Sign of Seniority For Me](https://newsletter.eng-leadership.com/p/saying-i-dont-know-is-a-sign-of-seniority)
+- [How to Gain Respect From Your Peers and Leadership as an Engineer](https://newsletter.eng-leadership.com/p/how-to-gain-respect-from-your-peers)
+- [The Importance of Writing in the Engineering Industry](https://newsletter.eng-leadership.com/p/the-importance-of-writing-in-the)
+- [How to build good relationships inside and outside your engineering team](https://newsletter.eng-leadership.com/p/how-to-build-good-relationships-inside)
+- [Best engineers are focusing on helping others](https://newsletter.eng-leadership.com/p/best-engineers-are-focusing-on-helping)
+- [Growing from engineer to Staff engineer and thriving](https://newsletter.eng-leadership.com/p/growing-from-engineer-to-staff-engineer)
+- [Perfectionism - one of the biggest productivity killers in the engineering industry](https://newsletter.eng-leadership.com/p/perfectionism-one-of-the-biggest)
+- [How to let your manager know about your goals and aspirations](https://newsletter.eng-leadership.com/p/how-to-let-your-manager-know-about)
+- [5 skills to develop to grow from Senior to Staff Engineer](https://newsletter.eng-leadership.com/growing-from-engineer-to-staff-engineeras)
+- [How to be a reliable engineer](https://newsletter.eng-leadership.com/p/how-to-be-a-reliable-engineer)
+- [How to be a proactive engineer](https://newsletter.eng-leadership.com/p/how-to-be-a-proactive-engineer?utm_source=publication-search)
+- [Simple code is the best code](https://newsletter.eng-leadership.com/p/simple-code-is-the-best-code)
+- [From Shy Engineer to Director at Oracle and a Skilled Communicator](https://newsletter.eng-leadership.com/p/from-shy-engineer-to-director-at)
+- [How to propose an impactful improvement to the codebase and own the implementation](https://newsletter.eng-leadership.com/p/how-to-propose-an-impactful-improvement)
+- [How to build credibility in the engineering industry](https://newsletter.eng-leadership.com/p/how-to-build-credibility-in-the-engineering)
+- [How to prevent burning out in the engineering industry](https://newsletter.eng-leadership.com/p/how-to-prevent-burning-out-in-the)
+- [Context-switching - one of the worst productivity killers in the engineering industry](https://newsletter.eng-leadership.com/p/context-switching-one-of-the-worst)
+- [Going from impostor one day to feeling like a superhuman the next day](https://newsletter.eng-leadership.com/p/going-from-impostor-one-day-to-feeling)
+- [Simplifying as much as possible is the way to go in the engineering industry](https://newsletter.eng-leadership.com/p/simplifying-as-much-as-possible-is)
+- [Engineer's Guide to Freelance Work](https://newsletter.eng-leadership.com/p/engineers-guide-to-freelance-work)
+- [How to Develop a Senior Mindset](https://newsletter.eng-leadership.com/p/how-to-develop-a-senior-mindset)
+- [Thrive in your first 90 days when starting a new position as an engineer](https://newsletter.eng-leadership.com/p/thrive-in-your-first-90-days-when)
+- [Become the go-to engineer in your organization](https://newsletter.eng-leadership.com/p/become-the-go-to-engineer-in-your)
+- [How Can Engineers and PMs Collaborate Effectively?](https://newsletter.eng-leadership.com/p/how-can-engineers-and-pms-collaborate)
+- [How I was able to get promoted while constant reorganization](https://newsletter.eng-leadership.com/p/how-i-was-able-to-get-promoted-while)
+- [Keep a brag list of the wins you achieved, thank me later](https://newsletter.eng-leadership.com/p/keep-a-brag-list-of-the-wins-you)
+- [Grow in your career by organizing an engineering guild](https://newsletter.eng-leadership.com/p/grow-in-your-career-by-organizing)
+- [Starting my career again as a junior engineer](https://newsletter.eng-leadership.com/p/starting-my-career-again-as-a-junior)
+- [A good engineer thinks like a product manager](https://newsletter.eng-leadership.com/p/a-good-engineer-thinks-like-a-product)
+- [The importance of data when making decisions in the engineering industry](https://newsletter.eng-leadership.com/p/the-importance-of-data-when-making)
+- [A CS Degree is not needed to be successful as a Software Engineer](https://newsletter.eng-leadership.com/p/a-cs-degree-is-not-needed-to-be-successful)
+- [Why your job search is failing as an engineer or a manager (and how to fix it)](https://newsletter.eng-leadership.com/p/why-your-job-search-is-failing-as)
+- [You don’t need to be a manager to have a successful career in the engineering industry](https://newsletter.eng-leadership.com/p/you-dont-need-to-be-a-manager-to)
+- [Engineer’s guide to convincing your Product Manager to prioritize technical debt](https://newsletter.eng-leadership.com/p/engineers-guide-to-convincing-your)
+- [Timeless skills in Software Development](https://newsletter.eng-leadership.com/p/timeless-skills-in-software-development)
+- [The importance of forming opinions in the engineering industry](https://newsletter.eng-leadership.com/p/the-importance-of-forming-opinions)
+
 
 ## Become product-minded and business-oriented
 
