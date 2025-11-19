@@ -270,7 +270,7 @@ This will ensure you are spending your time on the most impactful things first!
 - [Hungry Minds 🍔🧠](https://hungryminds.dev) by Alexandre Zajac
 - [The Hustling Engineer](https://thehustlingengineer.substack.com/) by Hemant Pandey
 - [A Life Engineered](https://alifeengineered.substack.com/) by Steve Huynh
-- [The Software Engineer Weekly] by Kevin Naughton Jr.
+- [The Software Engineer Weekly](https://www.thesweekly.com/) by Kevin Naughton Jr.
 - [Level up software engineering](https://levelupsoftwareengineering.substack.com/) by Caleb Mellas
 - [Optivem Journal](https://journal.optivem.com/) by Valentina Jemuović
 - [Engineer’s Codex](https://read.engineerscodex.com/) by Leonardo Creed
@@ -373,15 +373,15 @@ This will ensure you are spending your time on the most impactful things first!
 
 **List of books**
 
-- Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell
 - Inspired: How to Create Products Customers Love by Marty Cagan
-- Empowered by Marty Cagan
 - Loved: How to Rethink Marketing for Tech Products by Martina Lauchengco
+- Empowered by Marty Cagan
 - Start with Why by Simon Sinek
+- Transformed — Marty Cagan
 - What Your Customer Wants and Can’t Tell You by Melina Palmer
 - The Lean Startup by Eric Ries
-- Transformed by Marty Cagan
-
+- Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell
+  
 **List of newsletters**
 
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/) by Lenny Rachitsky
@@ -392,12 +392,15 @@ This will ensure you are spending your time on the most impactful things first!
 - [Leah’s ProducTea](https://www.leahtharin.com/) by Leah Tharin
 - [Elena's Growth Scoop](https://elenaverna.substack.com/) by Elena Verna
 - [Untrapping Product Teams](https://dpereira.substack.com/) by David Pereira
+- [Behind the Craft](https://creatoreconomy.so/) by Peter Yang
 - [The Looking Glass](https://lg.substack.com/) by Julie Zhuo
 - [The Beautiful Mess](https://cutlefish.substack.com/) by John Cutler
 - [Leadership Superpowers](https://gplead.com/newsletter) by Gregor Purdy
+- [GTM Strategist](https://knowledge.gtmstrategist.com/) by Maja Voje
 
 **People to follow on LinkedIn**
 
+- [Lenny Rachitsky](https://www.linkedin.com/in/lennyrachitsky/)
 - [Pawel Huryn](https://www.linkedin.com/in/pawel-huryn/)
 - [Aakash Gupta](https://www.linkedin.com/in/aagupta/)
 - [Wes Kao](https://www.linkedin.com/in/weskao/)
@@ -409,6 +412,7 @@ This will ensure you are spending your time on the most impactful things first!
 - [Peter Yang](https://www.linkedin.com/in/petergyang/)
 - [John Cutler](https://www.linkedin.com/in/johnpcutler/)
 - [Gregor Purdy](https://www.linkedin.com/in/gregorpurdy/)
+- [Maja Voje](https://www.linkedin.com/in/majavoje/)
 
 ## Get better at Data Engineering / Data Science
 
@@ -422,13 +426,13 @@ This will ensure you are spending your time on the most impactful things first!
 
 **List of newsletters**
 
-- [EcZachly Data Engineering Newsletter](https://blog.dataengineer.io/) by Zach Wilson
+- [DataExpert.io Newsletter](https://blog.dataengineer.io/) by Zach Wilson
 - [SeattleDataGuy’s Newsletter](https://seattledataguy.substack.com/) by SeattleDataGuy
 - [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/) by Avi Chawla
 - [Data Engineering Central](https://dataengineeringcentral.substack.com/) by Daniel Beach
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com/) by Ananth Packkildurai
 - [Joe Reis](https://joereis.substack.com/) by Joe Reis
-- [Air Around AI](https://airaroundai.substack.com/) by Pradeep Kumar
+- [Data Gibberish](https://www.datagibberish.com/) by Yordan Ivanov
 
 **People to follow on LinkedIn**
 
@@ -439,5 +443,109 @@ This will ensure you are spending your time on the most impactful things first!
 - [Ananth P](https://www.linkedin.com/in/ananthdurai/)
 - [Joe Reis](https://www.linkedin.com/in/josephreis/)
 - [Pradeep Kumar](https://www.linkedin.com/in/prady00/)
+- [Yordan Ivanov](https://www.linkedin.com/in/ivanovyordan/)
+
+## Get better at AI & ML
+
+**List of books**
+
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications by Chip Huyen
+- Machine Learning System Design Interview by Ali Aminian and Alex Xu
+- AI Engineering: Building Applications with Foundation Models by Chip Huyen
+- Building Applications with AI Agents by Michael Albada
+- AI Systems Performance Engineering by Chris Fregly
+- Prompt Engineering for LLMs by John Berryman and Albert Ziegler
+- Prompt Engineering for Generative AI by James Phoenix and Mike Taylor
+- Building LLMs for Production by Louis-François Bouchard and Louie Peters
+- Building Generative AI Services with FastAPI by Alireza Parandeh
+- Essential Math for AI by Hala Nelson
+- Mathematics of Machine Learning by Tivadar Danka
+- LLM Engineer's Handbook by Paul Iusztin and Maxime Labonne
+- LLMs in Production by Christopher Brousseau and Matt Sharp
+
+**List of newsletters**
+
+- [MarvelousMLOps](https://www.marvelousmlops.io/) by Maria Vechtomova & Basak Tugçe Eskili
+- [Al Supremacy](https://www.ai-supremacy.com/) by Michael Spencer
+- [Into](https://intoai.pub/) Al by Dr. Ashish Bamania
+- [The Palindrome](https://thepalindrome.org/) by Tivadar Danka
+- [Decoding ML](https://www.decodingai.com/) by Paul lusztin
+- [The Al Engineer](https://newsletter.owainlewis.com/) by Owain Lewis
+- [Nate's Substack](https://natesnewsletter.substack.com/) by Nate
+- [Neural Bits](https://multimodalai.substack.com/) by Alex Razvant
+- [The Al-Augmented Engineer](https://www.augmentedswe.com/) by Jeff Morhous
+- [Gradient Ascent](https://newsletter.artofsaience.com/) by Sairam Sundaresan
+- [Air Around AI](https://airaroundai.substack.com/) by Pradeep Kumar
+
+**People to follow on LinkedIn**
+
+- [Owain Lewis](https://www.linkedin.com/in/lewisowain/)
+- [Paul Iusztin](https://www.linkedin.com/in/pauliusztin/)
+- [Dr. Ashish Bamania](https://www.linkedin.com/in/ashishbamania/)
+- [Maria Vechtomova](https://www.linkedin.com/in/maria-vechtomova/)
+- [Başak Tuğçe Eskili](https://www.linkedin.com/in/ba%C5%9Fak-tu%C4%9F%C3%A7e-eskili-61511b58/)
+- [Michael Spencer](https://www.linkedin.com/in/michaelkspencer/)
+- [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)
+- [Li Yin](https://www.linkedin.com/in/li-yin-ai/)
+- [Raphaël Hoogvliets](https://www.linkedin.com/in/hoogvliets/)
+- [Hamel Husain](https://www.linkedin.com/in/hamelhusain/)
+- [Meri Nova](https://www.linkedin.com/in/meri-nova/)
+- [Timur Bikmukhametov](https://www.linkedin.com/in/timurbikmukhametov/)
+- [Alex Razvant](https://www.linkedin.com/in/arazvant/)
+- [Sairam Sundaresan](https://www.linkedin.com/in/sairam-sundaresan/)
+
+**Articles**
+
+- [How to Use AI to Help With Planning Engineering Projects](https://newsletter.eng-leadership.com/p/how-to-use-ai-to-help-with-planning)
+- [How to Use AI to Help With Software Engineering Tasks](https://newsletter.eng-leadership.com/p/how-to-use-ai-to-help-with-software)
+- [Companies Should Stop Obsessing Over AI Tools And Do This Instead](https://newsletter.eng-leadership.com/p/companies-should-stop-obsessing-over)
+- [How AI Is Impacting Engineering Leadership](https://newsletter.eng-leadership.com/p/how-ai-is-impacting-engineering-leadership)
+- [The Impact of AI on Engineering Teams](https://newsletter.eng-leadership.com/p/the-impact-of-ai-on-engineering-teams)
+- [How to Use AI to Improve Teamwork in Engineering Teams](https://newsletter.eng-leadership.com/p/how-to-use-ai-to-improve-teamwork)
+- [OpenAI's Product Leader Reveals: AI Product Strategy for Engineering Leaders](https://newsletter.eng-leadership.com/p/openais-product-leader-reveals-ai)
+- [LLMs: Common Terms Explained, Simply](https://newsletter.eng-leadership.com/p/llms-common-terms-explained-simply)
+- [Guide to Rapidly Improving AI Products Part 1](https://newsletter.eng-leadership.com/p/guide-to-rapidly-improving-ai-products)
+- [Guide to Rapidly Improving AI Products Part 2](https://newsletter.eng-leadership.com/p/guide-to-rapidly-improving-ai-products-8b2)
+- [Biggest Mistakes Engineering Leaders Make With AI](https://newsletter.eng-leadership.com/p/biggest-mistakes-engineering-leaders)
+- [AI Evals: How To Systematically Improve and Evaluate AI](https://newsletter.eng-leadership.com/p/ai-evals-how-to-systematically-improve)
+- [How to Measure AI Impact in Engineering Teams](https://newsletter.eng-leadership.com/p/how-to-measure-ai-impact-in-engineering)
+- [Engineering Leader's Guide to Managing Unrealistic AI Expectations](https://newsletter.eng-leadership.com/p/engineering-leaders-guide-to-managing)
+- [Guide to Prompt Engineering](https://newsletter.eng-leadership.com/p/guide-to-prompt-engineering)
+- [Why 51% of Engineering Leaders Believe AI Is Impacting the Industry Negatively](https://newsletter.eng-leadership.com/p/why-51-of-engineering-leaders-believe)
+- [Future Proof Your Career as an Engineer in Gen AI World](https://newsletter.eng-leadership.com/p/future-proof-your-career-as-an-engineer)
+- [How to Use AI to Be a Great Engineering Leader](https://newsletter.eng-leadership.com/p/how-to-use-ai-to-be-a-great-engineering)
+- [Top AI Coding Tools for Engineering Teams in 2025](https://newsletter.eng-leadership.com/p/top-ai-coding-tools-for-engineering)
+- [5 AI Tools to Build to Be a Better Engineering Leader in 2025](https://newsletter.eng-leadership.com/p/5-ai-tools-to-build-to-be-a-better)
+- [How to use Cursor AI to build side projects](https://newsletter.eng-leadership.com/p/how-to-use-cursor-ai-to-build-side)
+- [How to use AI to increase Software Development productivity](https://newsletter.eng-leadership.com/p/how-to-use-ai-to-increase-software)
+- [Will AI replace mid-level engineers in 2025?](https://newsletter.eng-leadership.com/p/will-ai-replace-mid-level-engineers)
+- [You have an AI product, how to get users?](https://newsletter.eng-leadership.com/p/you-have-an-ai-product-how-to-get)
+- [Enforcing the use of AI in engineering teams — good or bad thing?](https://newsletter.eng-leadership.com/p/enforcing-the-use-of-ai-in-engineering)
+
+## Get better at Coaching & Mentoring
+
+**List of books**
+
+- Coaching for Performance Fifth Edition: The Principles and Practice of Coaching and Leadership by Sir John Whitmore
+- The Prosperous Coach: Increase Income and Impact for You and Your Clients by Steve Chandler and Rich Litvin
+- The Coaches' Handbook: The Complete Practitioner Guide for Professional Coaches by Jonathan Passmore
+- Coaching Skills: The Definitive Guide to Being a Coach by Jenny Rogers
+- Coaching: The Secret Code to Uncommon Leadership by Ruchira Chaudhary
+
+## Get better at Communicating and Emotional Intelligence
+
+**List of books**
+
+- Social Intelligence: The New Science of Human Relationships by Daniel Goleman
+- The Art of Empathy by Karla Mclaren
+- How to Win Friends & Influence People by Dale Carnegie
+- Mindset: The New Psychology of Success by Carol S. Dweck
+
+**Articles**
+
+- [Empathy is a superpower in the engineering industry](https://newsletter.eng-leadership.com/p/empathy-is-a-superpower-in-the-engineering)
+- [How to develop EQ as an engineer or a manager](https://newsletter.eng-leadership.com/p/how-to-develop-eq-as-an-engineer)
+- [How to communicate with stakeholders the right way](https://newsletter.eng-leadership.com/p/how-to-communicate-with-stakeholders)
+- [How Engineering Leaders Stay Calm and Effective When It Gets Personal](https://newsletter.eng-leadership.com/p/how-engineering-leaders-stay-calm)
 
 Any resources you liked and believe would be a great addition to this list? Feel free to open a PR! I am always in the lookout for some more great books / newsletters / people to follow.
